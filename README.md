@@ -21,5 +21,5 @@ I will explain step by step how to set up your Discord Bot on your Phone!
 4. Save it with ```CTRL + X``` and confirm with ```Y```. Then just press "Enter".
 5. To run the script, write ```node ./[Filename].js``` or ```node [Filename].js```.
 
-<br>Thats it! Your Bot should be running now.
-<br>If you have some questions, feel free to ask me. A simple bot-script is also included in this repository.
+<br>Thats it! Your bot should be running now.
+<br>If you have some questions, feel free to ask me in the issues tab. A simple bot-script is also included in this repository.
