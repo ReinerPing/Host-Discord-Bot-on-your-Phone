@@ -15,7 +15,7 @@ I will explain step by step how to set up your Discord Bot on your Phone!
 
 <br>Now everything should be set up correctly. The last steps will be to create your js files.
 
-1. Create your main js file. With ```touch [Filename].js```. The .js file extencion is important! I like to call my file "index.js", but it doesn't really matter.
+1. Create your main js file with ```touch [Filename].js```. The .js file extencion is important! I like to call my file "index.js", but it doesn't really matter.
 2. Open the file with the simple text editor named Nano. For that type ```nano [Filename].js```.
 3. Here you can insert your script.
 4. Save it with ```CTRL + X``` and confirm with ```Y```. Then just press "Enter".
