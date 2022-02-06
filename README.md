@@ -1,6 +1,6 @@
 # How to host your Discord-Bot on your phone
 <img align="right" width="100" height="100" src="https://play-lh.googleusercontent.com/m3oqSZCwmitiZ-Im-CQu_rqT5eLHilOp5IudBynv3COJUumFzuQaP2dgTDxRL_03f4x2=s180-rw">
-I will explain step by step how to set up your Discord Bot on your Phone!
+I will explain step by step how to set up your Discord Bot on your phone!
 
 
 1. First you have to download Termux. You can download it right on their website (https://termux.com) or if you want to, you can download it from the Google Play Store. But keep in mind, the version there is outdated!
